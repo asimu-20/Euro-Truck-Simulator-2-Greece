@@ -200,4 +200,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 -
 **Get the most recent version of Euro Truck Simulator 2 - Greece today!**
 
 ---
-**Last updated:** 2026-11-12 23:10:26 UTC
+**Last updated:** 2026-11-13 04:53:57 UTC
